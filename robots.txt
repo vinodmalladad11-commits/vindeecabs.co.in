@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vindeecabs.co.in/sitemap.xml
